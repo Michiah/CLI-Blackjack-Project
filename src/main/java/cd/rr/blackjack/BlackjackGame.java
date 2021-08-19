@@ -2,6 +2,6 @@ package cd.rr.blackjack;
 
 public class BlackjackGame {
     public static void main(String[] args) {
-        //Hey Team
+        System.out.println("hey");
     }
 }
