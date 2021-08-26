@@ -10,7 +10,7 @@ public class Card {
     }
 
     public String toString(){
-        return suit.toString() +"-"+ rank.toString();
+        return rank.toString() +" of "+ suit.toString();
     }
 
     public Rank getRank() {
